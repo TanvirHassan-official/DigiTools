@@ -25,10 +25,10 @@ const Banner = () => {
           </p>
 
           <div className="flex flex-wrap gap-4 pt-4">
-            <button className="bg-linear-to-r from-[#4F39F6] to-[#9514FA]  px-4 py-2 rounded-2xl font-semibold text-md flex items-center gap-3 group text-white">
+            <button className="bg-linear-to-r from-[#4F39F6] to-[#9514FA]  px-4 py-2 rounded-2xl font-semibold text-md flex items-center gap-3 group text-white cursor-pointer">
               Explore Products
             </button>
-            <button className="bg-white transition-all px-4 py-2 rounded-2xl font-semibold text-md flex items-center gap-3 group text-black border border-[#9514FA]">
+            <button className="bg-white transition-all px-4 py-2 rounded-2xl font-semibold text-md flex items-center gap-3 group text-black border border-[#9514FA] cursor-pointer">
               [icon] Watch Demo
             </button>
             

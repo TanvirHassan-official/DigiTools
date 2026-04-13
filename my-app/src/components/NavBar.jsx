@@ -1,5 +1,3 @@
-import React from 'react';
-
 const NavBar = () => {
     return (
         <div className='px-5 md:px-20 lg:px-40'>
