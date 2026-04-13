@@ -30,9 +30,9 @@ const NavBar = () => {
                             <li><a>FAQ</a></li>
                     </ul>
                 </div>
-                <div className="navbar-end">
-                    <a className="btn">Button</a>
-                    <a className="btn">Button</a>
+                <div className="navbar-end ">
+                    <a className="btn">Login</a>
+                    <a className="btn">Get started</a>
                 </div>
             </div>
         </div>
