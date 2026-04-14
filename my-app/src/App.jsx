@@ -1,6 +1,7 @@
 import './App.css'
 import NavBar from './components/NavBar'
 import Banner from './components/Banner'
+import Get_started from './components/Get_started'
 import Pricing from './components/Pricing'
 import Transform from './components/Transform'
 import Footer from './components/Footer'
@@ -13,11 +14,11 @@ function App() {
       <Banner></Banner>
 
 
+      <Get_started></Get_started>
 
+      <Pricing></Pricing>
 
-    <Pricing></Pricing>
-
-    <Transform></Transform>
+      <Transform></Transform>
 
       <Footer></Footer>
       

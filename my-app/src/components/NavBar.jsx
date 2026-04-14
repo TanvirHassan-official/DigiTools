@@ -9,7 +9,7 @@ const NavBar = () => {
                         </div>
                         <ul
                             tabIndex="-1"
-                            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
+                            className="menu menu-sm dropdown-content bg-linear-to-r from-[#4F39F6] to-[#9514FA]k rounded-box mt-3 w-52 p-2 shadow text-white font-semibold">
                             <li><a>Products</a></li>
                             <li><a>Features</a></li>
                             <li><a>Pricing</a></li>
@@ -17,10 +17,10 @@ const NavBar = () => {
                             <li><a>FAQ</a></li>
                         </ul>
                     </div>
-                    <h2>DigiTools</h2>
+                    <h2 className="bg-linear-to-r from-[#4F39F6] to-[#9514FA] bg-clip-text text-transparent text-3xl font-bold pb-0.5">DigiTools</h2>
                 </div>
                 <div className="navbar-center hidden lg:flex">
-                    <ul className="menu menu-horizontal px-1">
+                    <ul className="menu menu-horizontal px-1 font-semibold">
                             <li><a>Products</a></li>
                             <li><a>Features</a></li>
                             <li><a>Pricing</a></li>
@@ -28,9 +28,9 @@ const NavBar = () => {
                             <li><a>FAQ</a></li>
                     </ul>
                 </div>
-                <div className="navbar-end ">
-                    <a className="btn">Login</a>
-                    <a className="btn">Get started</a>
+                <div className="navbar-end flex flex-wrap gap-4 ">
+                    <a className="btn bg-white rounded-2xl border border-[#9514FA]"> <i class="fa-solid fa-cart-shopping bg-linear-to-r from-[#4F39F6] to-[#9514FA] bg-clip-text text-transparent"></i>Login</a>
+                    <a className="btn bg-linear-to-r from-[#4F39F6] to-[#9514FA] rounded-2xl text-white">Get started</a>
                 </div>
             </div>
         </div>

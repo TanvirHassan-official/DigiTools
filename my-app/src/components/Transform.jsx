@@ -11,11 +11,11 @@ const Transform = () => {
         Join thousands of professionals who are already using Digitools to work smarter. <br /> Start your free trial today.
       </p>
           <div className="flex flex-wrap gap-4 pt-4 justify-center">
-            <button className="bg-white transition-all px-4 py-2 rounded-2xl font-semibold text-md flex items-center gap-3 group text-[#9514FA] border border-[#9514FA] cursor-pointer">
+            <button className="btn bg-white px-4 py-2 rounded-2xl font-semibold text-[#9514FA] border border-[#9514FA]">
               Explore Products
             </button>
 
-            <button className="bg-linear-to-r from-[#4F39F6] to-[#9514FA] border border-white px-4 py-2 rounded-2xl font-semibold text-md flex items-center gap-3 group text-white cursor-pointer">
+            <button className="btn bg-linear-to-r from-[#4F39F6] to-[#9514FA] border border-white px-4 py-2 rounded-2xl font-semibold text-white">
               View Pricing
             </button>
 

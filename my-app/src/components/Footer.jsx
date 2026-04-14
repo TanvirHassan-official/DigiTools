@@ -98,13 +98,14 @@ const Footer = () => {
             <h3 className="text-white font-semibold mb-6 text-lg">Social Links</h3>
             <div className="space-y-4 text-zinc-400 flex gap-4">
                 <div>
-                    <h1>icon</h1>
+                    <h1><a href=""><i class="fa-brands fa-facebook"></i></a></h1>
                 </div>
                 <div>
-                    <h1>icon</h1>
+                  
+                    <h1><a href=""><i class="fa-brands fa-instagram"></i></a></h1>
                 </div>
                 <div>
-                    <h1>icon</h1>
+                    <h1><a href=""><i class="fa-brands fa-x-twitter"></i></a></h1>
                 </div>
             </div>
           </div>

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Pricing = () => {
     return (
-        <div className='my-20'>
+        <div className='my-30'>
             <div className="grid grid-cols-1 gap-1 px-4 sm:px-6 md:px-12 lg:px-24 justify-items-center ">
                 <h1 className="text-4xl font-bold text-center">Simple, Transparent Pricing</h1>
                 <p className="py-6  opacity-80 text-center">
@@ -16,7 +16,7 @@ const Pricing = () => {
 
 
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8 lg:gap-12 px-4 sm:px-6 md:px-12 lg:px-24">
-                        <div className="card bg-base-100 shadow-sm">
+                        <div className="card bg-base-100 shadow-md px-8 border border-violet-100">
                             <div className="card-body flex flex-col justify-between min-h-105 md:min-h-115">
                                 
                                 <div className=''>
@@ -51,7 +51,7 @@ const Pricing = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="card bg-base-100 shadow-sm bg-linear-to-r from-[#4F39F6] to-[#9514FA]">
+                        <div className="card bg-base-100 shadow-md bg-linear-to-r from-[#4F39F6] to-[#9514FA] px-8">
                             <div className="card-body flex flex-col justify-between min-h-105 md:min-h-115">
                                 <span className="badge badge-xs bg-amber-200 text-red-600 self-center absolute -top-2">Most Popular</span>
                                 <div className=''>
@@ -90,11 +90,11 @@ const Pricing = () => {
 
                                 </ul>
                                 <div className="mt-6">
-                                    <button className="btn btn-primary btn-block bg-linear-to-r from-[#4F39F6] to-[#9514FA] rounded-3xl">Start Pro Trial</button>
+                                    <button className="btn btn-primary btn-block bg-white text-[#9514FA] rounded-3xl">Start Pro Trial</button>
                                 </div>
                             </div>
                         </div>
-                        <div className="card bg-base-100 shadow-sm">
+                        <div className="card bg-base-100 shadow-md px-8 border border-violet-100">
                             <div className="card-body flex flex-col justify-between min-h-105 md:min-h-115">
                                 
                                 <div className=''>
