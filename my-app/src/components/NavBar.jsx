@@ -1,4 +1,4 @@
-const NavBar = () => {
+const NavBar = ({carts}) => {
     return (
         <div className='px-5 md:px-20 lg:px-40'>
             <div className="navbar bg-base-100 shadow-sm">
@@ -29,7 +29,7 @@ const NavBar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end flex flex-wrap gap-4 ">
-                    <a className="btn bg-white rounded-2xl border border-[#9514FA]"> <i class="fa-solid fa-cart-shopping bg-linear-to-r from-[#4F39F6] to-[#9514FA] bg-clip-text text-transparent"></i>Login</a>
+                    <a className="btn bg-white rounded-2xl border border-[#9514FA]"> <i className="fa-solid fa-cart-shopping bg-linear-to-r from-[#4F39F6] to-[#9514FA] bg-clip-text text-transparent"></i>({carts.length}) Login</a>
                     <a className="btn bg-linear-to-r from-[#4F39F6] to-[#9514FA] rounded-2xl text-white">Get started</a>
                 </div>
             </div>

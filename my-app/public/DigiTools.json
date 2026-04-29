@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "ResumePro Builder",
+    "description": "Create professional, ATS-friendly resumes with ease using customizable templates.",
+    "price": 9.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF"
+    ],
+    "icon": "./products/writing_2327400 1.png"
+  },
+  {
+    "id": 2,
+    "name": "DesignKit UI",
+    "description": "A complete UI/UX design toolkit for modern web and mobile applications.",
+    "price": 49.0,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "500+ UI components",
+      "Figma support",
+      "Dark mode ready"
+    ],
+    "icon": "./products/design-tool.png"
+  },
+  {
+    "id": 3,
+    "name": "DevFlow Pro",
+    "description": "Boost your development workflow with automation and collaboration tools.",
+    "price": 19.99,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "CI/CD integration",
+      "Team collaboration",
+      "Task automation"
+    ],
+    "icon": "./products/operation.png"
+  },
+  {
+    "id": 4,
+    "name": "SEO Booster",
+    "description": "Improve your website ranking with powerful SEO tools and analytics.",
+    "price": 29.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Keyword tracking",
+      "Site audit",
+      "Backlink analysis"
+    ],
+    "icon": "./products/social-media.png"
+  },
+  {
+    "id": 5,
+    "name": "ContentAI Writer",
+    "description": "Generate high-quality content using AI for blogs, ads, and social media.",
+    "price": 14.99,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "AI content generation",
+      "Multiple tones",
+      "SEO suggestions"
+    ],
+    "icon": "./products/writing_2327400 1.png"
+  },
+  {
+    "id": 6,
+    "name": "AnalyticsHub",
+    "description": "All-in-one analytics dashboard for tracking user behavior and performance.",
+    "price": 99.0,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Real-time analytics",
+      "Custom reports",
+      "Integration with tools"
+    ],
+    "icon": "./products/portfolio.png"
+  },
+  {
+    "id": 7,
+    "name": "CloudStorage X",
+    "description": "Secure and scalable cloud storage solution for individuals and teams.",
+    "price": 5.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "100GB storage",
+      "Secure encryption",
+      "Multi-device sync"
+    ],
+    "icon": "./products/design-tool.png"
+  },
+  {
+    "id": 8,
+    "name": "CodeMaster Academy",
+    "description": "Learn programming with structured courses and hands-on projects.",
+    "price": 59.0,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "100+ courses",
+      "Certificates",
+      "Project-based learning"
+    ],
+    "icon": "./products/operation.png"
+  },
+  {
+    "id": 9,
+    "name": "TaskZen Manager",
+    "description": "Organize your daily tasks and boost productivity with smart scheduling.",
+    "price": 7.99,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "Task tracking",
+      "Reminders",
+      "Team collaboration"
+    ],
+    "icon": "./products/operation.png"
+  }
+]
