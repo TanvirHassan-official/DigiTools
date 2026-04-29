@@ -1,4 +1,5 @@
 # 🚀 DigiTools Platform
+[![Visit DigiTools](https://img.shields.io/badge/Visit-DigiTools-blue?style=for-the-badge)](https://digitools.tanvirofficial.com)
 
 ## 📌 Overview
 
